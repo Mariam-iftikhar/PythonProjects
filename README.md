@@ -257,9 +257,6 @@ Explore my other professional work:
 
 I'm always open to connecting with fellow data professionals, discussing opportunities, or collaborating on interesting projects!
 
-- **LinkedIn:** [linkedin.com/in/mariam-iftikhar-546bb4200](https://www.linkedin.com/in/mariam-iftikhar-546bb4200/)
-- **GitHub:** [github.com/Mariam-iftikhar](https://github.com/Mariam-iftikhar)
-
 ---
 
 ## ⚖️ License

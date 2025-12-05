@@ -7,8 +7,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mariam--iftikhar-181717?style=flat&logo=github)](https://github.com/Mariam-iftikhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariam-iftikhar-546bb4200/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:mariam.iftikhar4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariamiftikhar/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:mariamiftikhar127@gmail.com)
 
 ---
 

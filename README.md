@@ -19,7 +19,7 @@ Welcome to my **Python Projects Portfolio**! This repository showcases my profic
 As a **Business Analytics graduate student** at Roosevelt University, these projects reflect my hands-on experience in data manipulation, exploratory data analysis (EDA), statistical analysis, and data visualization—skills essential for Business Intelligence and Data Analyst roles.
 
 ### 🎯 Repository Highlights
-- **11 Comprehensive Python Projects** covering various analytical techniques
+- **Comprehensive Python Projects** covering various analytical techniques
 - **Jupyter Notebook Format** for interactive, reproducible analysis
 - **Real-World Applications** in market analysis, customer behavior, and data cleaning
 - **Professional Code Quality** with clear documentation and structured approaches
@@ -244,20 +244,6 @@ Explore my other professional work:
 
 ---
 
-## 🎓 About Me
-
-**Mariam Iftikhar**  
-🎓 MS in Business Analytics | Roosevelt University  
-📍 Chicago, IL
-
-I am a passionate Business Analytics professional specializing in data analytics, business intelligence, and data-driven decision-making. My expertise spans Python programming, SQL, Power BI, and advanced Excel, with a focus on transforming complex datasets into strategic business insights.
-
-### 🎯 Career Focus
-- Business Intelligence Analyst
-- Data Analyst
-- Business Analyst
-- Analytics Consultant
-
 ### 💪 Core Competencies
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 - **Business Intelligence:** Power BI, Data Visualization, Dashboard Development
@@ -272,7 +258,6 @@ I am a passionate Business Analytics professional specializing in data analytics
 I'm always open to connecting with fellow data professionals, discussing opportunities, or collaborating on interesting projects!
 
 - **LinkedIn:** [linkedin.com/in/mariam-iftikhar-546bb4200](https://www.linkedin.com/in/mariam-iftikhar-546bb4200/)
-- **Email:** [mariam.iftikhar4@gmail.com](mailto:mariam.iftikhar4@gmail.com)
 - **GitHub:** [github.com/Mariam-iftikhar](https://github.com/Mariam-iftikhar)
 
 ---

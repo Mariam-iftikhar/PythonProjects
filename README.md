@@ -187,6 +187,70 @@ Logistics and operations analysis examining the relationship between supply capa
 
 ---
 
+### 💰 **10. Financial Variance Analysis**
+
+**File:** `Financial_Variance_Analysis.ipynb`
+
+**Description:**
+Comprehensive ETL (Extract, Transform, Load) pipeline for financial variance analysis used in corporate finance and budget management. This project demonstrates automated budget performance monitoring by comparing actual spending against budgeted amounts across departments and time periods, identifying spending anomalies and generating executive-ready reports.
+
+**Key Learnings:**
+
+- •  
+  Building end-to-end ETL pipelines for financial data
+- •  
+  Calculating variance metrics (absolute dollar difference and percentage deviation)
+- •  
+  Creating automated flagging systems for high-variance departments
+- •  
+  Implementing business rules and thresholds for financial monitoring
+- •  
+  Generating department-level budget performance dashboards
+- •  
+  Monthly variance trend analysis and visualization
+- •  
+  Data transformation techniques for financial reporting
+- •  
+  Handling division-by-zero scenarios in financial calculations
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, ETL Pipeline Development
+
+---
+
+### 🕸️ **11. Web Scraping Using Beautiful Soup**
+
+**File:** `Webscraping Using Beautiful Soup.ipynb`
+
+**Description:**
+Systematic web scraping project demonstrating data extraction from SEO tutorial websites for content analysis. This project showcases data engineering skills including HTTP requests, HTML parsing, data transformation, and Natural Language Processing (NLP) for keyword extraction. The scraped data is structured into analyzable datasets for competitive content analysis and SEO research.
+
+**Key Learnings:**
+
+- •  
+  Sending HTTP requests and retrieving HTML content from web servers
+- •  
+  Parsing HTML structure using BeautifulSoup for data extraction
+- •  
+  Extracting structured data (links, titles, URLs) from web pages
+- •  
+  Data transformation from raw HTML to pandas DataFrames
+- •  
+  Text preprocessing and cleaning techniques for NLP
+- •  
+  Implementing stopword removal and tokenization
+- •  
+  Keyword frequency analysis and trend identification
+- •  
+  Exporting scraped data to CSV for reusability
+- •  
+  Understanding ethical web scraping practices and rate limiting
+- •  
+  Building production-ready scraping frameworks with error handling
+
+**Technologies:** Python, Requests, BeautifulSoup, Pandas, Natural Language Processing (NLP), Text Analytics
+
+---
+
 ## 🛠️ Technical Skills Demonstrated
 
 ### Programming & Libraries

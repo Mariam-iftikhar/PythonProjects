@@ -196,22 +196,14 @@ Comprehensive ETL (Extract, Transform, Load) pipeline for financial variance ana
 
 **Key Learnings:**
 
-- •  
-  Building end-to-end ETL pipelines for financial data
-- •  
-  Calculating variance metrics (absolute dollar difference and percentage deviation)
-- •  
-  Creating automated flagging systems for high-variance departments
-- •  
-  Implementing business rules and thresholds for financial monitoring
-- •  
-  Generating department-level budget performance dashboards
-- •  
-  Monthly variance trend analysis and visualization
-- •  
-  Data transformation techniques for financial reporting
-- •  
-  Handling division-by-zero scenarios in financial calculations
+- Building end-to-end ETL pipelines for financial data
+-  Calculating variance metrics (absolute dollar difference and percentage deviation)
+- Creating automated flagging systems for high-variance departments
+- Implementing business rules and thresholds for financial monitoring
+- Generating department-level budget performance dashboards
+- Monthly variance trend analysis and visualization
+- Data transformation techniques for financial reporting
+- Handling division-by-zero scenarios in financial calculations
 
 **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, ETL Pipeline Development
 
@@ -226,26 +218,16 @@ Systematic web scraping project demonstrating data extraction from SEO tutorial 
 
 **Key Learnings:**
 
-- •  
-  Sending HTTP requests and retrieving HTML content from web servers
-- •  
-  Parsing HTML structure using BeautifulSoup for data extraction
-- •  
-  Extracting structured data (links, titles, URLs) from web pages
-- •  
-  Data transformation from raw HTML to pandas DataFrames
-- •  
-  Text preprocessing and cleaning techniques for NLP
-- •  
-  Implementing stopword removal and tokenization
-- •  
-  Keyword frequency analysis and trend identification
-- •  
-  Exporting scraped data to CSV for reusability
-- •  
-  Understanding ethical web scraping practices and rate limiting
-- •  
-  Building production-ready scraping frameworks with error handling
+- Sending HTTP requests and retrieving HTML content from web servers
+- Parsing HTML structure using BeautifulSoup for data extraction
+- Extracting structured data (links, titles, URLs) from web pages
+- Data transformation from raw HTML to pandas DataFrames
+- Text preprocessing and cleaning techniques for NLP
+- Implementing stopword removal and tokenization
+- Keyword frequency analysis and trend identification
+- Exporting scraped data to CSV for reusability
+- Understanding ethical web scraping practices and rate limiting
+- Building production-ready scraping frameworks with error handling
 
 **Technologies:** Python, Requests, BeautifulSoup, Pandas, Natural Language Processing (NLP), Text Analytics
 
